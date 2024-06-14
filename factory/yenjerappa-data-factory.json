@@ -1,0 +1,9 @@
+{
+	"name": "yenjerappa-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b304ae90-2e1b-4a98-b319-79de390b0005",
+		"tenantId": "17a3f6a4-1259-41a8-a8b7-4986f8225119"
+	}
+}
